@@ -1,0 +1,12 @@
+<?php
+// Sample DB config for remote hosting (InfinityFree etc.)
+// Copy this file to includes/db_config.php and fill values.
+
+// Example InfinityFree-style connection values (replace with your actual credentials):
+$db_host = 'sqlXXX.epizy.com'; // host from your InfinityFree panel
+$db_name = 'epiz_12345678_dbname'; // database name
+$db_user = 'epiz_12345678'; // database username
+$db_pass = 'your_db_password'; // database password
+
+// NOTE: Rename to db_config.php and keep it out of version control.
+?>
